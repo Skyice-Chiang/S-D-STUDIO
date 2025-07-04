@@ -1,0 +1,11 @@
+@import "bootstrap/scss/functions";
+@import 'abstracts/variables';
+
+// 載入 Bootstrap 主樣式
+@import 'bootstrap/scss/bootstrap';
+
+// 其他全域樣式
+@import 'abstracts/mixin';
+@import 'abstracts/reset';
+@import '../../public/fonts/fonts.css';
+@import 'abstracts/base';
