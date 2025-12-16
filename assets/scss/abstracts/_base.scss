@@ -1,3 +1,37 @@
 body{
   font-family: 'Inter', sans-serif;
+  font-size: 16px;
+}
+
+h1,h2,h3,h4,h5,p{
+  line-height: 120%;
+}
+
+.fs-hero{
+  font-size: 56.49px;
+}
+
+.fs-title{
+  font-size: 48px;
+}
+
+.fs-subtitle{
+  font-size: 32px;
+}
+
+.fs-body-lg{
+  font-size: 24px;
+}
+
+.fs-body-md{
+  font-size: 20px;
+}
+
+.fs-body-sm{
+  font-size: 12px;
+}
+
+.keyword-btn{
+  padding: 8px;
+  border-radius: 8px;
 }

@@ -1,13 +1,23 @@
 <template>
-  <div>
-    <h1 class="fs-1 fw-bold text-center">我是首頁 S-D STUDIO</h1>
-  </div>
+  <section id="home">
+    <Hero />
+  </section>
+  <section id="about">
+    <About /> 
+  </section>
+  <section id="crew">
+    <Crew />
+  </section>
+  <section id="work">
+    <Work />
+  </section>
+  <section id="contact">
+    <Contact />
+  </section>
 </template>
 
-<script>
-export default {
+<script setup>
 
-}
 </script>
 
 <style>
